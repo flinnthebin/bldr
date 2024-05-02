@@ -21,5 +21,5 @@ func main() {
         Level: 100,
     }
 
-    fmt.Printf("Grid item (%s) (%d)", getShape(square), getLevel(square))
+    fmt.Printf("Grid item 1, Shape: %s   Size: %d", getShape(square), getLevel(square))
 }
