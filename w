@@ -1,0 +1,20 @@
+go get fyne.io/fyne/v2/internal/svg@v2.4.5
+go get fyne.io/fyne/v2/internal/painter@v2.4.5
+go get fyne.io/fyne/v2/storage/repository@v2.4.5
+go get fyne.io/fyne/v2/internal/painter@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/internal/painter@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/internal/painter@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/widget@v2.4.5
+go get fyne.io/fyne/v2/internal/painter/gl@v2.4.5
+go get fyne.io/fyne/v2/internal/driver/glfw@v2.4.5
+go get fyne.io/fyne/v2/internal/driver/glfw@v2.4.5
+go get fyne.io/fyne/v2/internal/driver/glfw@v2.4.5
+go get fyne.io/fyne/v2/app@v2.4.5
+go get fyne.io/fyne/v2/app@v2.4.5
+go get fyne.io/fyne/v2/app@v2.4.5
+
